@@ -1,7 +1,7 @@
 # VRTK-study
- basic usage of vrtk
+basic usage of vrtk
 
-
+Unity Version: 2018.4.32f1
 
 **Demonstration GIF**
 
