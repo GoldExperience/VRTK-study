@@ -3,6 +3,6 @@
 
 
 
-**Demonstration**
+**Demonstration GIF**
 
 ![Demo2](https://raw.githubusercontent.com/GoldExperience/BlogImages/master/Demo2.gif) 
