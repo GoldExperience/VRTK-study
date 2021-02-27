@@ -3,4 +3,4 @@
 
 **Demonstration**
 
-![Demo](D:\UnityProjects\VRTK-study\Demo.gif)
+![Demo](https://raw.githubusercontent.com/GoldExperience/BlogImages/master/Demo.gif)
