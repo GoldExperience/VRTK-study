@@ -29,6 +29,7 @@ public class ShowRes : MonoBehaviour
 
     public void replay_game()
     {
+        Destroy(saveload.gameObject);
         SceneManager.LoadScene("LoginScene");
     }
 }
